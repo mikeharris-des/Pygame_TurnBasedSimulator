@@ -30,7 +30,7 @@ LAUNCH INSTRUCTIONS:
 	   user1.png
 	   user2.png
 	   user1idle.png
-       user2idle.png
+           user2idle.png
 
    * in console navigate to directory containing main.py file and enter:
        python3 main.py
